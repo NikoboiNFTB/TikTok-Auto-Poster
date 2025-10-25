@@ -6,6 +6,7 @@
 // @author       Nikoboi
 // @match        *://*.tiktok.com/*
 // @grant        none
+// @icon         https://www.tiktok.com/favicon.ico
 // ==/UserScript==
 
 (function() {
